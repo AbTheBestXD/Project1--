@@ -1,0 +1,51 @@
+.pic1 {
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    left: 350px;
+    background: url(image1.jpg);
+}
+
+.btn1 {
+    position: relative;
+    left: 600px;
+    top: 495px;
+}
+
+.littildet1 {
+    position: absolute;
+    width: 376px;
+    height: 400px;
+    background: #E5E5E5;
+    top: 0px;
+}
+
+.littildet2 {
+    position: absolute;
+    width: 376px;
+    height: 400px;
+    background: #E5E5E5;
+    top: 0px;
+    left: 950px;
+}
+
+.littildet3 {
+    position: absolute;
+    width: 1326px;
+    height: 79px;
+    background: black;
+    top: 400px;
+}
+
+.littildet4 {
+    opacity: 100;
+    position: absolute;
+    width: 1326px;
+    height: 79px;
+    background: linear-gradient(180deg, #E6454E 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #EF29CF 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #674FFF 0%, rgba(93, 69, 237, 0.260417) 73.96%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #ABDEDB 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #ABECC5 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #C6F760 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #E9B86F 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #B46767 0%, rgba(255, 255, 255, 0) 100%), #F5B0F7;
+    top: 550px;
+}
+
+.HackSelect {
+    top: 650px;
+}
